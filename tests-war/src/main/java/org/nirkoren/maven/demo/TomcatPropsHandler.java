@@ -1,4 +1,4 @@
-package org.nirkoren.maven.*;
+package org.nirkoren.maven.demo;
 
 public class TomcatPropsHandler {
 
